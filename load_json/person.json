@@ -1,0 +1,28 @@
+[
+  {
+    "name" : "Abhishek J",
+    "age" : "23",
+    "height" : "172",
+    "gender" : "male",
+    "hair_color" : "black"
+  },
+  {
+    "name" : "Renuka",
+    "age" : "23",
+    "height" : "172",
+    "gender" : "female",
+    "hair_color" : "black"
+  },{
+  "name" : "Pari",
+  "age" : "23",
+  "height" : "172",
+  "gender" : "female",
+  "hair_color" : "black"
+},{
+  "name" : "Vishal",
+  "age" : "23",
+  "height" : "172",
+  "gender" : "male",
+  "hair_color" : "black"
+}
+]
